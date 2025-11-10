@@ -1,0 +1,36 @@
+{
+  "title": "Research Paper Structure",
+  "description": "Defines the mandatory sections and writing rules for a research document.",
+  "sections": [
+    {
+      "name": "Abstract",
+      "purpose": "Summarize the purpose, methods, and findings of the paper in under 200 words."
+    },
+    {
+      "name": "Introduction",
+      "purpose": "Provide background and clearly define the problem or research question."
+    },
+    {
+      "name": "Methodology",
+      "purpose": "Describe how the research was conducted, including data collection and analysis."
+    },
+    {
+      "name": "Results",
+      "purpose": "Present the main findings objectively with evidence."
+    },
+    {
+      "name": "Discussion",
+      "purpose": "Interpret the findings and compare them to existing research."
+    },
+    {
+      "name": "Conclusion",
+      "purpose": "Summarize the overall insights and suggest future research directions."
+    }
+  ],
+  "rules": [
+    "Use formal, academic tone.",
+    "Cite sources appropriately.",
+    "Each section should have at least 100 words.",
+    "Avoid plagiarism."
+  ]
+}

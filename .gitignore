@@ -1,0 +1,68 @@
+# ==========================
+# General
+# ==========================
+.DS_Store
+*.log
+*.tmp
+*.swp
+*.swo
+*.bak
+*.old
+*.pyc
+__pycache__/
+.env
+.env.local
+.env.*.local
+
+# ==========================
+# Node / React (client)
+# ==========================
+client/node_modules/
+client/.pnp/
+client/.pnp.js
+client/build/
+client/dist/
+client/.cache/
+client/npm-debug.log*
+client/yarn-debug.log*
+client/yarn-error.log*
+client/.eslintcache
+client/coverage/
+
+# ==========================
+# Python / FastAPI (server)
+# ==========================
+server/__pycache__/
+server/*.py[cod]
+server/venv/
+server/env/
+server/.venv/
+server/.mypy_cache/
+server/.pytest_cache/
+server/.coverage
+server/htmlcov/
+server/instance/
+server/.ipynb_checkpoints
+server/*.db
+server/*.sqlite3
+
+# ==========================
+# VSCode / Editors
+# ==========================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ==========================
+# OS files
+# ==========================
+Thumbs.db
+desktop.ini
+
+# ==========================
+# Local project data
+# ==========================
+offline-word/
+ai-word.json
+way-to-do
